@@ -6,8 +6,9 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -16.92413,
-            89.89275
+            -89.89275,
+            16.92413
+           
           ]
         },
         "properties": {
