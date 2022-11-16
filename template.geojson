@@ -14,7 +14,11 @@
         "properties": {
             "name":"Guatemala",
             "label-size":1,
-            "icon-size": 1
+            "icon-size": 1,
+            "text-color": "#00ffff",
+            "text-halo-color": "#00ffff",
+            "text-halo-width": 1,
+            "icon-color": "#00ffff"
 
         }
       },
