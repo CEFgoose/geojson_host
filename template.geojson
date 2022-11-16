@@ -6,12 +6,20 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            16.92413,
-            -89.89275
+            -89.89275,
+            16.92413
+
           ]
         },
         "properties": {
-            "country":"Guatemala"
+            "name":"Guatemala",
+            "label-size":1,
+            "icon-size": 1,
+            "text-color": "#00ffff",
+            "text-halo-color": "#00ffff",
+            "text-halo-width": 1,
+            "icon-color": "#00ffff"
+
         }
       },
 
@@ -20,9 +28,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            14.55694,
-            -90.73517
-
+            -90.73517,
+            14.55694
           ]
         },
         "properties": {
@@ -36,8 +43,9 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            14.55694,
-            -90.73517
+            -90.73517,
+            14.55694
+
 
           ]
         },
@@ -51,8 +59,9 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            16.740396,
-            -62.198326
+
+            -62.198326,
+            16.740396
           ]
         },
         "properties": {
@@ -66,8 +75,9 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            13.878819, 
-            -60.984260 
+            -60.984260,
+            13.878819
+
           ]
         },
         "properties": {
@@ -79,8 +89,9 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            18.067709, 
-            -63.054608
+            -63.054608,
+            18.067709
+
           ]
         },
         "properties": {
@@ -92,8 +103,9 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            13.684680, 
-            -88.905739
+            -88.905739,
+            13.684680
+
           ]
         },
         "properties": {
@@ -105,8 +117,9 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            18.428718, 
-            -64.630973 
+
+            -64.630973,
+            18.428718
           ]
         },
         "properties": {
@@ -118,8 +131,9 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            17.350511, 
-            -62.778321
+
+            -62.778321,
+            17.350511 
           ]
         },
         "properties": {
@@ -131,7 +145,7 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            19.001910, -71.001420
+            -71.001420,19.001910 
           ]
         },
         "properties": {
@@ -143,7 +157,7 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            24.542292, -77.977395
+            -77.977395,24.542292 
           ]
         },
         "properties": {
@@ -155,7 +169,7 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            21.456181, -71.139054
+            -71.139054, 21.456181
           ]
         },
         "properties": {
@@ -167,7 +181,7 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            13.169771, -84.845084
+            -84.845084,13.169771 
           ]
         },
         "properties": {
@@ -180,7 +194,7 @@
           "type": "Point",
           "coordinates": [
 
-            -0.173189, -78.468870 
+            -78.468870,-0.173189
           ]
         },
         "properties": {
@@ -192,7 +206,7 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            32.298968, -64.762626
+            -64.762626, 32.298968
           ]
         },
         "properties": {
@@ -205,7 +219,7 @@
           "type": "Point",
           "coordinates": [
 
-            -2.174912, -79.911178 
+            -79.911178,-2.174912 
           ]
         },
         "properties": {
@@ -218,7 +232,7 @@
           "type": "Point",
           "coordinates": [
 
-            -12.023917, -77.026929
+            -77.026929,-12.023917
           ]
         },
         "properties": {
@@ -230,7 +244,7 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -16.615407, -63.893067
+            -63.893067,-16.615407
           ]
         },
         "properties": {
@@ -242,7 +256,7 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            9.511283, -13.714298
+            -13.714298,9.511283
           ]
         },
         "properties": {
@@ -254,7 +268,7 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            4.035204, -56.229734
+            -56.229734, 4.035204
           ]
         },
         "properties": {
@@ -266,7 +280,7 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            4.819277, -58.855396
+            -58.855396,4.819277 
           ]
         },
         "properties": {
@@ -278,7 +292,7 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -33.466981, -70.650440
+            -70.650440,-33.466981 
           ]
         },
         "properties": {
@@ -290,7 +304,7 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            29.367971, 47.541061
+            47.541061,29.367971 
           ]
         },
         "properties": {
@@ -302,13 +316,280 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -34.620042, -58.449437
+            -34.620042 ,-58.449437
           ]
         },
         "properties": {
             "country":"Buenos Aires"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.853166,1.343514 
+          ]
+        },
+        "properties": {
+            "country":"Singapore"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            54.397581,24.446321
+          ]
+        },
+        "properties": {
+            "country":"Abu Dhabi"
+        }
+      },
+
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            50.544467,26.052502 
+          ]
+        },
+        "properties": {
+            "country":"Bahrain"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            51.110475,25.340566
+          ]
+        },
+        "properties": {
+            "country":"Qatar"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            114.172875,22.325686
+          ]
+        },
+        "properties": {
+            "country":"Hong Kong"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+
+            31.218545 ,48.583962
+          ]
+        },
+        "properties": {
+            "country":"Ukraine "
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+
+            10.159888, 55.478341
+          ]
+        },
+        "properties": {
+            "country":"Denmark"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -18.288195,64.718258
+          ]
+        },
+        "properties": {
+            "country":"Iceland"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            55.266029,25.201077
+          ]
+        },
+        "properties": {
+            "country":"Dubai"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            56.886052,20.792115
+          ]
+        },
+        "properties": {
+            "country":"Oman"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            57.570838,-20.284652 
+          ]
+        },
+        "properties": {
+            "country":"Mauritius"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            55.534160,-21.137531 
+          ]
+        },
+        "properties": {
+            "country":"Reunion"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.344262, -11.730909 
+          ]
+        },
+        "properties": {
+            "country":"Comoros"
+        }
+      },
+
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            45.150575, -12.830957 
+          ]
+        },
+        "properties": {
+            "country":"Mayotte"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.037343,-12.043514
+          ]
+        },
+        "properties": {
+            "country":"Lima"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            114.606890, 4.475995 
+          ]
+        },
+        "properties": {
+            "country":"Brunei"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.642701, -74.107112
+          ]
+        },
+        "properties": {
+            "country":"Bogota"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.203831,35.024331
+          ]
+        },
+        "properties": {
+            "country":"Cyprus"
+        }
+      },
+
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -60.681020,-32.955708
+          ]
+        },
+        "properties": {
+            "country":"Rosario"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.281892, -4.084718
+          ]
+        },
+        "properties": {
+            "country":"Ecuador"
+        }
       }
+
+
+
+
+
+
     ]
   }
 
