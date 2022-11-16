@@ -12,7 +12,10 @@
           ]
         },
         "properties": {
-            "country":"Guatemala"
+            "name":"Guatemala",
+            "label-size":1,
+            "icon-size": 1
+
         }
       },
 
