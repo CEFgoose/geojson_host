@@ -8,11 +8,18 @@
           "coordinates": [
             -89.89275,
             16.92413
-           
+
           ]
         },
         "properties": {
-            "country":"Guatemala"
+            "name":"Guatemala",
+            "label-size":1,
+            "icon-size": 1,
+            "text-color": "#00ffff",
+            "text-halo-color": "#00ffff",
+            "text-halo-width": 1,
+            "icon-color": "#00ffff"
+
         }
       },
 
@@ -309,13 +316,280 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -58.449437,-34.620042 
+            -34.620042 ,-58.449437
           ]
         },
         "properties": {
             "country":"Buenos Aires"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.853166,1.343514 
+          ]
+        },
+        "properties": {
+            "country":"Singapore"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            54.397581,24.446321
+          ]
+        },
+        "properties": {
+            "country":"Abu Dhabi"
+        }
+      },
+
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            50.544467,26.052502 
+          ]
+        },
+        "properties": {
+            "country":"Bahrain"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            51.110475,25.340566
+          ]
+        },
+        "properties": {
+            "country":"Qatar"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            114.172875,22.325686
+          ]
+        },
+        "properties": {
+            "country":"Hong Kong"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+
+            31.218545 ,48.583962
+          ]
+        },
+        "properties": {
+            "country":"Ukraine "
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+
+            10.159888, 55.478341
+          ]
+        },
+        "properties": {
+            "country":"Denmark"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -18.288195,64.718258
+          ]
+        },
+        "properties": {
+            "country":"Iceland"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            55.266029,25.201077
+          ]
+        },
+        "properties": {
+            "country":"Dubai"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            56.886052,20.792115
+          ]
+        },
+        "properties": {
+            "country":"Oman"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            57.570838,-20.284652 
+          ]
+        },
+        "properties": {
+            "country":"Mauritius"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            55.534160,-21.137531 
+          ]
+        },
+        "properties": {
+            "country":"Reunion"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.344262, -11.730909 
+          ]
+        },
+        "properties": {
+            "country":"Comoros"
+        }
+      },
+
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            45.150575, -12.830957 
+          ]
+        },
+        "properties": {
+            "country":"Mayotte"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.037343,-12.043514
+          ]
+        },
+        "properties": {
+            "country":"Lima"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            114.606890, 4.475995 
+          ]
+        },
+        "properties": {
+            "country":"Brunei"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.642701, -74.107112
+          ]
+        },
+        "properties": {
+            "country":"Bogota"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.203831,35.024331
+          ]
+        },
+        "properties": {
+            "country":"Cyprus"
+        }
+      },
+
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -60.681020,-32.955708
+          ]
+        },
+        "properties": {
+            "country":"Rosario"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.281892, -4.084718
+          ]
+        },
+        "properties": {
+            "country":"Ecuador"
+        }
       }
+
+
+
+
+
+
     ]
   }
 
