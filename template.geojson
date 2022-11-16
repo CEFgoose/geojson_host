@@ -1,0 +1,314 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.92413,
+            -89.89275
+          ]
+        },
+        "properties": {
+            "country":"Guatemala"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.55694,
+            -90.73517
+
+          ]
+        },
+        "properties": {
+            "country":"Antigua"
+        }
+      },
+
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.55694,
+            -90.73517
+
+          ]
+        },
+        "properties": {
+            "country":"Dominica"
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.740396,
+            -62.198326
+          ]
+        },
+        "properties": {
+            "country":"Montserrat"
+        }
+      },
+
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.878819, 
+            -60.984260 
+          ]
+        },
+        "properties": {
+            "country":"St.Lucia"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.067709, 
+            -63.054608
+          ]
+        },
+        "properties": {
+            "country":"St.Martin"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.684680, 
+            -88.905739
+          ]
+        },
+        "properties": {
+            "country":"El Salvador"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.428718, 
+            -64.630973 
+          ]
+        },
+        "properties": {
+            "country":"British Virgin Islands"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.350511, 
+            -62.778321
+          ]
+        },
+        "properties": {
+            "country":"St.Kitts"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            19.001910, -71.001420
+          ]
+        },
+        "properties": {
+            "country":"Dominican Republic"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.542292, -77.977395
+          ]
+        },
+        "properties": {
+            "country":"Bahamas"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            21.456181, -71.139054
+          ]
+        },
+        "properties": {
+            "country":"Turks"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.169771, -84.845084
+          ]
+        },
+        "properties": {
+            "country":"Nicaragua"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+
+            -0.173189, -78.468870 
+          ]
+        },
+        "properties": {
+            "country":"Quito"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.298968, -64.762626
+          ]
+        },
+        "properties": {
+            "country":"Bermuda"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+
+            -2.174912, -79.911178 
+          ]
+        },
+        "properties": {
+            "country":"Guayaquil"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+
+            -12.023917, -77.026929
+          ]
+        },
+        "properties": {
+            "country":"Lima"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -16.615407, -63.893067
+          ]
+        },
+        "properties": {
+            "country":"Bolivia"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            9.511283, -13.714298
+          ]
+        },
+        "properties": {
+            "country":"French Guinea"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.035204, -56.229734
+          ]
+        },
+        "properties": {
+            "country":"Suriname"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.819277, -58.855396
+          ]
+        },
+        "properties": {
+            "country":"Guyana"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -33.466981, -70.650440
+          ]
+        },
+        "properties": {
+            "country":"Santiago"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.367971, 47.541061
+          ]
+        },
+        "properties": {
+            "country":"Kuwait"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -34.620042, -58.449437
+          ]
+        },
+        "properties": {
+            "country":"Buenos Aires"
+        }
+      }
+    ]
+  }
+
